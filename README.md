@@ -98,5 +98,5 @@ This project demonstrates the ability to:
 
 * SQL Queries: `queries.sql`
 * Dataset: `customers_dataset_130.csv`
-* Dashboard: (Add Tableau Public Link Here)
+* Dashboard: ![Tableau Link](https://public.tableau.com/app/profile/david.attah.ogbole/viz/CustomerQualityAssessment/EmailValidation)
 * Report: (Add PDF Link Here)
