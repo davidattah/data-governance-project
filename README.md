@@ -20,7 +20,7 @@ This project demonstrates a data governance and data quality assessment using SQ
 * 
 ## Dataset
 
-A synthetic customer dataset of 130+ records was created, including:
+A customer dataset of 130+ records was created, including:
 
 * Missing values (NULLs and empty fields)
 * Invalid formats (emails, phone numbers)
